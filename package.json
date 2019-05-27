@@ -1,14 +1,18 @@
 {
-  "name": "sfz",
-  "version": "1.0.0",
-  "description": "",
-  "main": "sfz.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin":{
-    "ew":"./sfz.js"
-  },
-  "author": "zankoav",
-  "license": "ISC"
+	"name": "sfz",
+	"version": "1.0.0",
+	"description": "",
+	"main": "sfz.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"bin": {
+		"ew": "./sfz.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zankoav/sfz.git"
+	},
+	"author": "zankoav",
+	"license": "ISC"
 }
