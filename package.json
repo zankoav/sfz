@@ -14,5 +14,8 @@
 		"url": "https://github.com/zankoav/sfz.git"
 	},
 	"author": "zankoav",
-	"license": "ISC"
+	"license": "ISC",
+	"dependencies": {
+		"executive": "^1.6.3"
+	}
 }
